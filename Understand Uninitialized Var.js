@@ -53,3 +53,13 @@ function compareEquality(a, b) {
 }
 
 compareEquality(10, "10");
+
+
+function welcomeToBooleans() {
+
+  // Only change code below this line
+
+  return true; // Change this line
+
+  // Only change code above this line
+}
