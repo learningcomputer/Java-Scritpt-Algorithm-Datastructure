@@ -170,3 +170,12 @@ function caseInSwitch(val) {
 
 // Change this value to test
 caseInSwitch(1);
+
+
+//------------------------------------------------------------------------------------
+
+function isEqual(a,b) {
+  return a === b;
+}
+
+isEqual(10.11);
