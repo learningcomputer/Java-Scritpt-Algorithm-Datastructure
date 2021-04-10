@@ -179,3 +179,11 @@ function isEqual(a,b) {
 }
 
 isEqual(10.11);
+
+//--------------------------------------------------------------
+var cat = {
+  name: "Whiskers",
+  legs: 4,
+  tails: 1,
+  enemies: ["Water", "Dogs"]
+};
