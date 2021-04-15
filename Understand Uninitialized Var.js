@@ -245,3 +245,11 @@ var myDog = {
 // Only change code below this line
 
 myDog.name = "Happy Coder";
+
+
+//-----------------------------------------------------
+
+myDog.bark = "woof";
+
+// Only change code below this line
+delete myDog.tails;
