@@ -289,6 +289,8 @@ function checkObj(obj, checkProp) {
   }
 }
 
+//---------------------------------------------------------------------
+
 {
     "artist": "Billy Joel",
     "title": "Piano Man",
@@ -300,3 +302,16 @@ function checkObj(obj, checkProp) {
     ],
     "gold": true
   }
+  //---------------------------------------------------------------------
+  
+  var myStorage = {
+  car: {
+    inside: {
+      "glove box": "maps",
+      "passenger seat": "crumbs"
+    },
+    outside: {
+      trunk: "jack"
+    }
+  }
+};
