@@ -492,3 +492,11 @@ var total=0;
 for(var i=0;i<myArr.length;i++){
   total=total +myArr[i];
 }
+//-------------------------------------------------------------------------
+var myArr = [ 2, 3, 4, 5, 6];
+
+// Only change code below this line
+var total=0;
+for(var i=0;i<myArr.length;i++){
+  total=total +myArr[i];
+}
